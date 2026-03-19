@@ -13,8 +13,6 @@
 
 ## 🚀 About Me
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = "250px"></picture>
-
 - 👨‍💻 **Senior Full Stack Developer** with 6 years of experience leading the Software Development Life Cycle (SDLC).
 - 🏗️ Specialist in **Microservices architectures** and scalable **SaaS platforms** using Laravel, NestJS, and PostgreSQL.
 - ⚡ Expert in high-performance APIs (REST/GraphQL), database optimization, and **Local-first** development with Tauri/Rust.
