@@ -12,13 +12,13 @@
 </div>
 
 ## 🚀 About Me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250></picture>
 
 - 👨‍💻 **Senior Full Stack Developer** with 6 years of experience leading the Software Development Life Cycle (SDLC).
 - 🏗️ Specialist in **Microservices architectures** and scalable **SaaS platforms** using Laravel, NestJS, and PostgreSQL.
 - ⚡ Expert in high-performance APIs (REST/GraphQL), database optimization, and **Local-first** development with Tauri/Rust.
 - 🌐 Focused on delivering robust technical solutions aligning innovation (**Web3, Go, Python**) with business goals.
 - 📍 Based in **Venezuela**.
-
 <br>
 
 ## 🛠️ Skills
@@ -69,12 +69,39 @@
 
 <br>
 
-## 📊 GitHub Stats
+### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nelsonp17&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonp17&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&hide=css,blade,html" height="192px" />
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nelsonp17&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nelsonp17&layout=compact&langs_count=10"/>
+</a>
+</p>
+
+<h3>Languages</h3>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nelsonp17&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nelsonp17&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Others Tools👨🏻‍💻</h2></summary>
+  </ul>
 </div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,discord,docker,postgres,prisma,dynamodb,express,figma,firebase,supabase,redis,github,gitlab,linux,md,materialui,nginx,postman,tailwind,ts,vscode,kubernetes,phpstorm,wordpress,windows,npm,jquery,qt,vim,androidstudio,arduino,atom,bash,bootstrap,cmake,codepen,cypress,dotnet,eclipse,fastapi,flask,godot,graphql,heroku,idea,ai,notion,ps,pinia,pnpm,pycharm,stackoverflow,sublime,ubuntu,webstorm,visualstudio,webpack,vite,yarn&perline=14" />
+  </a>
+</p>
+
+
 
 <br>
 
