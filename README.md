@@ -72,15 +72,15 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nelsonp17&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nelsonp17&layout=compact&langs_count=10"/>
+<a href="https://github.com/nelsonp17">
+  <img height="230em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nelsonp17&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="230em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nelsonp17&layout=compact&langs_count=10"/>
 </a>
 </p>
 
 <h3>Languages</h3>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/nelsonp17/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nelsonp17&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nelsonp17&layout=compact&hide_border=true"
